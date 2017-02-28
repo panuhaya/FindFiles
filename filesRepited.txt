@@ -1,0 +1,19 @@
+Directory /Users/panuhaya/puebas/A
+Directory /Users/panuhaya/puebas/B
+Directory /Users/panuhaya/puebas/B/BB
+Directory /Users/panuhaya/puebas/C
+Directory /Users/panuhaya/puebas/C/CC
+	File .DS_Store
+Directory /Users/panuhaya/puebas/A
+Directory /Users/panuhaya/puebas/B
+Directory /Users/panuhaya/puebas/B/BB
+Directory /Users/panuhaya/puebas/C/CC
+	File X
+	File Y
+Directory /Users/panuhaya/puebas/B/BB
+Directory /Users/panuhaya/puebas/C/CC
+	File YY
+Directory /Users/panuhaya/puebas/A
+Directory /Users/panuhaya/puebas/B
+Directory /Users/panuhaya/puebas/C
+	File Z
